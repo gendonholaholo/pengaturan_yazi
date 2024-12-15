@@ -1,0 +1,6 @@
+[plugin]
+deps = [{ use = "yazi-rs/plugins:mime-ext", rev = "62f0789" }, { use = "yazi-rs/plugins:smart-filter", rev = "62f0789" }, { use = "Sonico98/exifaudio", rev = "d794614" }, { use = "Reledia/hexyl", rev = "39d3d4e" }, { use = "AnirudhG07/rich-preview", rev = "8be4d27" }, { use = "yazi-rs/plugins:max-preview", rev = "62f0789" }, { use = "dedukun/bookmarks", rev = "20ece7e" }, { use = "KKV9/compress", rev = "60b24af" }]
+
+[flavor]
+deps = [{ use = "dangooddd/kanagawa", rev = "b32f205" }, { use = "yazi-rs/flavors:catppuccin-latte", rev = "8458d25" }, { use = "sanjinso/monokai-vibrant", rev = "8b68223" }]
+:q
